@@ -1,0 +1,1 @@
+First take a copy of the design file, then open one of them and use a 4X4 keypad and check the result. The realtime circuit is not same as this simulation circuit.
